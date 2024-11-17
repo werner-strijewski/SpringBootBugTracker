@@ -1,1 +1,1 @@
-# BugTrackerJHipster
+# Spring Boot Bug Tracker
